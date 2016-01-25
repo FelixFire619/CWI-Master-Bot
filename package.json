@@ -1,0 +1,19 @@
+{
+  "name": "cwi-network-alpha",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FelixFire619/cwi-network-alpha/"
+  },
+  "author": "Felix.Fire619",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "irc": "^0.4.0",
+    "node-static": "^0.7.7"
+  }
+}
